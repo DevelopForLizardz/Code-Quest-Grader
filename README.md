@@ -1,6 +1,7 @@
 # Code Quest Grader
-**Python Script for grading and testing solutions to Code Quest problems.**
-*NOTE* Only compatible with Python solution files. Uses Python 3.
+### Python Script for grading and testing solutions to Code Quest problems.
+
+***NOTE:*** Only compatible with Python 3 solution files.
 
 ## How it works
 Code Quest problems follow a specific naming convention, namely:
